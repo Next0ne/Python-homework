@@ -1,0 +1,1 @@
+SELECT name,age,cls_id FROM students WHERE gender = '男'

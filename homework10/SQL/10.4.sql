@@ -1,0 +1,1 @@
+SELECT * FROM students WHERE id = 1 OR id = 3 OR id = 8

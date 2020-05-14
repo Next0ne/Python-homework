@@ -1,0 +1,1 @@
+SELECT * FROM students WHERE gender = '男' AND is_delete = 0 ORDER BY age DESC

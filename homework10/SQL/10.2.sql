@@ -1,0 +1,1 @@
+SELECT * FROM students WHERE id = 4 OR is_delete = 0
